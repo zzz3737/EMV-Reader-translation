@@ -7,7 +7,7 @@
     <!-- Msg -->
     <string name="billing_success">Спасибо за пожертвование!</string>
     <string name="card_read">Карта прочитана</string>
-    <string name="card_reading">Карта считывается&#8230;</string>
+    <string name="card_reading">Карта считывается</string>
     <string name="card_deleted">Данные карты удалены</string>
     <string name="card_reading_desc">Не убирайте и не двигайте карту, пока она считывается.</string>
     <string name="nfc_locked">На вашей карте заблокирован NFC или она не активирована</string>
@@ -29,7 +29,7 @@
     <string name="viewpager_log">Журнал</string>
 
     <!-- Card Detail -->
-    <string name="paycard_back_text">Приложите вашу NFC карту \n к задней стенке телефона</string>
+    <string name="paycard_back_text">Приложите вашу NFC карту к задней стенке телефона</string>
     <string name="extended_card_detail_title">Расширенная информация о карте</string>
     <string name="card_representation_title">Представление карты</string>
     <string name="extended_share">Поделиться</string>
@@ -75,7 +75,7 @@
     <string name="transaction_type">Тип транзакции:</string>
     <string name="transaction_cryptogram">Криптограмма:</string>
     <string name="transaction_country">Страна:</string>
-    <string name="transaction_time">время торговли :</string>
+    <string name="transaction_time">Время транзакции:</string>
     <string name="transaction_unknown">Неизвестно</string>
 
     <!-- Transaction type -->
